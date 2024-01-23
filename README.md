@@ -1,2 +1,0 @@
-# nestjs-backend
-nestjs backend
